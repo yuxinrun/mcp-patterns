@@ -1,0 +1,19 @@
+{
+  "name": "mcp-patterns",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "MCP Patterns — MCP Server 工程模式与实战手册",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "@fontsource-variable/jetbrains-mono": "^5.3.0",
+    "@fontsource-variable/manrope": "^5.3.0"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
