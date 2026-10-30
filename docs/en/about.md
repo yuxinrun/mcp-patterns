@@ -9,6 +9,8 @@ description: What MCP Patterns is, who it's for, and how to contribute.
 
 > **How do you build an MCP server that can ship, be debugged, and be maintained?**
 
+<BrandMark variant="card" />
+
 ## Why this site
 
 When MCP appeared in 2024, most material focused on "how to run a demo". By 2026, the hard problems are:

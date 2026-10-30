@@ -213,7 +213,7 @@ export default defineConfig({
     editLink: { pattern: `${repo}/edit/main/docs/:path`, text: '在 GitHub 上编辑此页' },
     socialLinks: [{ icon: 'github', link: repo }],
     footer: {
-      message: '以工程实践为主，代码优先，少堆理论。',
+      message: `<div class="mp-footer-brand"><img src="${base}yuxin-run.png" alt="鱼心快跑" width="546" height="363" /><span>鱼心快跑，Bug 追不上</span></div>`,
       copyright: '© 2026 鱼心快跑 · MCP Patterns'
     },
     search: {
@@ -268,8 +268,8 @@ export default defineConfig({
         lastUpdated: { text: 'Updated', formatOptions: { dateStyle: 'short', timeStyle: 'short' } },
         editLink: { pattern: `${repo}/edit/main/docs/:path`, text: 'Edit this page on GitHub' },
         footer: {
-          message: 'Code first. Less theory, more shipped patterns.',
-          copyright: '© 2026 Yuxin · MCP Patterns'
+          message: `<div class="mp-footer-brand"><img src="${base}yuxin-run.png" alt="Yuxin Runs" width="546" height="363" /><span>Run, Yuxin, run. Bugs cannot catch you.</span></div>`,
+          copyright: '© 2026 Yuxin Runs · MCP Patterns'
         },
         search: {
           provider: 'local',

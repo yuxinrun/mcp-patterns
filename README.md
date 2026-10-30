@@ -1,4 +1,10 @@
-# MCP Patterns｜MCP Server 工程模式与实战手册
+<p align="center">
+  <img src="./docs/public/yuxin-run.png" alt="鱼心快跑：戴着耳机奔跑的青色小鱼" width="180" />
+</p>
+
+<h1 align="center">MCP Patterns｜MCP Server 工程模式与实战手册</h1>
+
+<p align="center"><strong>鱼心快跑，Bug 追不上。</strong></p>
 
 写给后端与 AI 开发者的 MCP 落地指南。少讲协议八股，多给能跑的代码、能抄的模板、能避开的坑。
 

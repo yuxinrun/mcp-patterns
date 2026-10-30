@@ -9,6 +9,8 @@ description: MCP Patterns 的定位、作者、技术栈与贡献方式。
 
 > **怎么把 MCP Server 做成一个能上线、能排障、能长期维护的服务？**
 
+<BrandMark variant="card" />
+
 ## 为什么做这个站
 
 2024 年 MCP 刚出现时，资料大多集中在「怎么跑一个 demo」。到了 2026 年，真正的难点已经变成：
